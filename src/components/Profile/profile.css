@@ -1,0 +1,24 @@
+.bigBlock{
+    border-radius: 1rem;
+    border-color: rgba(101, 98, 98, 0.948);
+    background: #6766660f;
+    border-style: solid;
+    box-sizing: border-box;
+}
+
+img{
+    width: 10vh;
+    height: 10vh;
+    border-radius: 5vh;
+    object-fit: cover;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    gap:10;
+}
+.listItem{
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgba(101, 98, 98, 0.948);
+}

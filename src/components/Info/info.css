@@ -1,0 +1,8 @@
+.bigBlock{
+    border-radius: 1rem;
+    border-color: rgba(101, 98, 98, 0.948);
+    background: #6766660f;
+    padding: 2rem;
+    border-style: solid;
+    box-sizing: border-box;
+}
